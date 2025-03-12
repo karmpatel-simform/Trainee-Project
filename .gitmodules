@@ -1,6 +1,6 @@
-[submodule "Trainee-Frontend"]
-	path = Trainee-Frontend
-	url = git@github.com:karmpatel-simform/Trainee-Frontend.git
 [submodule "Trainee-Backend"]
 	path = Trainee-Backend
-	url = git@github.com:karmpatel-simform/Trainee-Backend.git
+	url = https://github.com/karmpatel-simform/Trainee-Backend.git
+[submodule "Trainee-Frontend"]
+	path = Trainee-Frontend
+	url = https://github.com/karmpatel-simform/Trainee-Frontend.git
