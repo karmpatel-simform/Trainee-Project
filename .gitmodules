@@ -1,6 +1,8 @@
 [submodule "Trainee-Backend"]
 	path = Trainee-Backend
 	url = https://github.com/karmpatel-simform/Trainee-Backend.git
+	branch = main
 [submodule "Trainee-Frontend"]
 	path = Trainee-Frontend
 	url = https://github.com/karmpatel-simform/Trainee-Frontend.git
+	branch = main
