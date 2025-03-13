@@ -43,10 +43,10 @@ This project consists of two parts:
 1. Navigate to the frontend project ReadMe:
 
    ```bash
-   https://github.com/karmpatel-simform/Trainee-Frontend/ReadMe.md
+   https://github.com/karmpatel-simform/Trainee-Frontend/
 
 
 2. Navigate to the Backend project ReadMe:
 
    ```bash
-   https://github.com/karmpatel-simform/Trainee-Backend/ReadMe.md
+   https://github.com/karmpatel-simform/Trainee-Backend/
