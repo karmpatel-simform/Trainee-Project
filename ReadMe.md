@@ -35,3 +35,18 @@ This project consists of two parts:
 
    ```bash
    cd Trainee-Backend
+
+
+
+### Further SetUp
+
+1. Navigate to the frontend project ReadMe:
+
+   ```bash
+   cat https://github.com/karmpatel-simform/Trainee-Frontend/ReadMe.md
+
+
+2. Navigate to the Backend project ReadMe:
+
+   ```bash
+   cat https://github.com/karmpatel-simform/Trainee-Backend/ReadMe.md
